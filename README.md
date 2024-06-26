@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=pycharm, vscode, jupyternotebook, github, git, googlecolab" />
-    <img src="https://skillicons.dev/icons?i=python, scikit-learn, sql, tensorflow, keras, pandas, numpy, matplotlib, seaborn" /><br>
+    <img src="https://skillicons.dev/icons?i=pycharm,vscode,jupyternotebook,github,git,googlecolab" />
+    <img src="https://skillicons.dev/icons?i=python,scikit-learn,sql,tensorflow,keras,pandas,numpy,matplotlib,seaborn" /><br>
 </div>
 
 <br/>
