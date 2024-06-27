@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=pycharm,vscode,jupyternotebook,github,git,googlecolab"/>
-    <img src="https://skillicons.dev/icons?i=python,scikitlearn,mysql,tensorflow,numericalpython,matplotlib,seaborn"/><br>
+    <img src="https://skillicons.dev/icons?i=python,scikitlearn,mysql,tensorflow,pandas,numpy,matplotlib,seaborn"/><br>
 </div>
 
 <br/>
